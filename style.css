@@ -29,17 +29,13 @@
 }
 
 body {
-  background-color:rgb(184, 174, 174);
-  /* TODO: change the font - be mindful of how fonts are imported in the webpage */
-  font-family: 'Noto Sans', sans-serif;
-  /* TODO: change the background colour */
-  color: #9d9191;
+
   font-size: 16px;
   line-height:normal;
 }
 h1, h2, h3 {
   /* TODO: change the header font colour */
-  color: #FFFFFF;
+
 }
 
 h1 {
@@ -68,7 +64,7 @@ a {
 }
 
 a:hover {
-  background-color: #827397;
+  background-color: #37343b;
 }
 
 .img-circle {
@@ -77,18 +73,16 @@ a:hover {
 
 .card-white {
   /* TODO: change the card background colour */
-  background-color: rgb(48, 48, 192);
-  padding: 40px;
+
   box-shadow: 0px 10px 30px rgba(0 0 0 / 10%);
-  border-radius: 4px;
-  margin: 20px 0px;
+  border-radius: 100px;
+  margin: 50px 50px;
   text-align: center;
 }
 
 .btn-blue {
   /* TODO: change the button colour */
-  background-color:#4D4C7D;
-  color: black;
+
   padding: 15px 20px;
   border-radius: 4px;
 }
